@@ -22,7 +22,7 @@ This repository uses three types of security scanning:
 - Artifacts: zap-baseline-reports, zap-fullscan-reports
 
 ## Understanding Results
-[Link to Part 10 in README]
+- [Complete Security Scanning Guide for Beginners: Interpreting DAST Scan Results](https://github.com/Lowkh/Practice_SAST_SCA_DAST/blob/main/README.md#part-10-interpreting-dast)
 
 ## Reporting Vulnerabilities
 Please email S10243956@connect.np.edu.sg or kohshanchun@gmail.com
